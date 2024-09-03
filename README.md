@@ -1,11 +1,13 @@
 # Differential-Expression-Analysis-for-RNASeq-data
 The project involves analyzing RNA-Seq data by setting up a DESeqDataSet, performing differential expression analysis with DESeq2, creating a volcano plot, understanding independent filtering, and then comparing results with edgeR.
 
+
 info --> contains the information on data used
 
 code.r --> contains the R script for Analysis
 
 meta.csv --> contains the meta data or labels
+
 
 Results: 
 
